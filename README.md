@@ -1,4 +1,4 @@
 # Demo
 
 
-Description of my project
+Description of Dixon's project
